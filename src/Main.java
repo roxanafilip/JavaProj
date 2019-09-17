@@ -4,16 +4,9 @@ public class Main {
     System.out.println("Hello world world");
 
     // Global information
-        String country "Italia"
-            String form "boot"
-                S
-
-
-
-
-
-
-
+        String country ="Italia";
+            String form;
 
 
     }
+}
